@@ -32,7 +32,7 @@
 | Nome | Descrição | Tecnologias |
 |------|-----------|-------------|
 | Vida Pet | Sistema de cuidados com pets com CRUD, metas e sugestões personalizadas. | Python, CSV |
-| DiverCidade | Um jogo que une o físico ao digital utilizando tabuleiro com design específico para portadores de TEA ou TDAH possuírem uma experiência digna e divertida de jogo, leds programadas para orientar o jogador pelo tabuleiro, display programado para narrar e orientar cada acontecimento e jogada com o decorrer do jogo.
+| DiverCidade | Um jogo que une o físico ao digital utilizando tabuleiro com design específico para portadores de TEA ou TDAH possuírem uma experiência digna e divertida de jogo, leds programadas para orientar o jogador pelo tabuleiro, display programado para narrar e orientar cada acontecimento e jogada com o decorrer do jogo. | Arduino |
 
 
 <!-- Contato -->
