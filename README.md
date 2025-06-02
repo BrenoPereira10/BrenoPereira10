@@ -39,4 +39,4 @@
 ## 📫 Como me encontrar
 
 - ✉️ Email: [bpol@cesar.school]
-- 💼 LinkedIn: [[[lidin.com/in/seu-usuarionke](https://www.linkedin.com/in/brenopereiradeol/)
+- 💼 LinkedIn: [[lidin.com/in/seu-usuarionke](https://www.linkedin.com/in/brenopereiradeol/)]
