@@ -38,5 +38,5 @@
 <!-- Contato -->
 ## 📫 Como me encontrar
 
-- ✉️ Email: [seuemail@email.com]
-- 💼 LinkedIn: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
+- ✉️ Email: [bpol@cesar.school]
+- 💼 LinkedIn: [[[lidin.com/in/seu-usuarionke](https://www.linkedin.com/in/brenopereiradeol/)
