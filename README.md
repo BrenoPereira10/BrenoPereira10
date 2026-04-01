@@ -1,4 +1,4 @@
-<!-- Banner ou Saudação -->
+<!-- Banner or Greeting -->
 <h1 align="center">Breno Pereira 👋</h1>
 <p align="center">
 Computer Science Student | Teaching Assistant (HCI) | Web Development | Python
@@ -6,28 +6,28 @@ Computer Science Student | Teaching Assistant (HCI) | Web Development | Python
 
 ---
 
-## 🚀 Sobre mim
+## 🚀 About Me
 
-- 🎓 Estudante de **Ciência da Computação (3º período)** na Cesar School  
-- 👨‍🏫 Monitor de **Interação Humano-Computador (IHC)**  
-- 💡 Experiência em **programação + design**, com foco em soluções acessíveis e centradas no usuário  
-- 🌱 Sempre buscando evoluir em **desenvolvimento web e experiência do usuário**  
-- 💼 Em busca de oportunidade como **estagiário em tecnologia**
+- 🎓 Computer Science student (3rd semester) at Cesar School  
+- 👨‍🏫 Teaching Assistant in **Human-Computer Interaction (HCI)**  
+- 💡 Experience combining **programming and design**, focused on user-centered and accessible solutions  
+- 🌱 Currently improving my skills in **web development and user experience**  
+- 💼 Looking for an **internship opportunity in tech**
 
 ---
 
-## 🧠 Experiência
+## 🧠 Experience
 
 ### 👨‍🏫 Teaching Assistant – Human-Computer Interaction (HCI)
-- Auxílio a alunos no aprendizado de **programação e conceitos de IHC**
-- Desenvolvimento de interfaces inclusivas com **Django, JavaScript, HTML e CSS**
-- Aplicação de **usabilidade, acessibilidade (WCAG)** e design centrado no usuário
-- Experiência com **design systems, arquitetura da informação e testes de usabilidade**
-- Uso de **heurísticas de Nielsen** e tecnologias assistivas
+- Assisted students in learning **programming and HCI concepts**
+- Supported the development of inclusive interfaces using **Django, JavaScript, HTML, and CSS**
+- Applied **usability, accessibility (WCAG)**, and user-centered design principles
+- Worked with **design systems, information architecture, and usability testing**
+- Applied **Nielsen’s heuristics** and assistive technologies
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -40,42 +40,42 @@ Computer Science Student | Teaching Assistant (HCI) | Web Development | Python
 
 ---
 
-## 🚀 Projetos em Destaque
+## 🚀 Featured Projects
 
-### 📰 Projeto Jornal do Commercio
-Desenvolvimento de um novo site com foco em **experiência do usuário e acessibilidade**  
+### 📰 Jornal do Commercio Project
+Developed a website focused on **user experience and accessibility**  
 🔗 https://github.com/Davi-Lucena-Costa/Projetos-2-G11  
 
 ---
 
-### 🎮 Jogo em C
-Desenvolvimento de um jogo utilizando a linguagem C  
+### 🎮 Game in C
+Developed a game using the C programming language  
 🔗 https://github.com/Bernalencouto/Corra-Pikachu  
 
 ---
 
 ### 🌐 Code Quiz (Django)
-Aplicação web com **programação orientada a objetos + front-end**  
+Web application built with **Object-Oriented Programming + front-end**  
 🔗 https://github.com/gabrielpferreira15/Code_Quiz  
 
 ---
 
 ### 🐾 Vida Pet
-Sistema de gerenciamento de pets com CRUD, metas e sugestões  
-🔧 Python + manipulação de arquivos  
+Pet management system with CRUD features, goals, and suggestions  
+🔧 Python + file handling  
 
 ---
 
-## 💡 Habilidades
+## 💡 Skills
 
-- 🧩 Lógica de programação e estruturas de dados  
-- 🎨 Usabilidade, acessibilidade e design de interfaces  
-- 💬 Comunicação e didática (experiência como monitor)  
-- 🚀 Proatividade e aprendizado contínuo  
+- 🧩 Programming logic and data structures  
+- 🎨 Usability, accessibility, and interface design  
+- 💬 Communication and teaching (TA experience)  
+- 🚀 Proactive and continuous learner  
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - ✉️ Email: bpol@cesar.school  
 - 💼 LinkedIn: https://www.linkedin.com/in/brenopereiradeol/
